@@ -66838,7 +66838,7 @@ q0(){var s=0,r=A.S(t.a),q,p=2,o,n=this,m,l,k,j,i,h
 var $async$q0=A.T(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.X(A.atE(A.fh("http://api.openweathermap.org/data/2.5/forecast?q="+n.d+",np&APPID=1154e6c8e8258c13a5b45216adf9994b")),$async$q0)
+return A.X(A.atE(A.fh("https://api.openweathermap.org/data/2.5/forecast?q="+n.d+",np&APPID=1154e6c8e8258c13a5b45216adf9994b")),$async$q0)
 case 7:m=b
 j=m
 l=B.cE.K_(A.att(A.arx(j.e).c.a.j(0,"charset")).e0(j.w),null)
